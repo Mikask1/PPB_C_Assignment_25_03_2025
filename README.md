@@ -2,6 +2,10 @@
 
 Cloned from https://github.com/iamshaunjp/flutter-beginners-tutorial/tree/lesson-21
 
+Nama: Darren Prasetya
+
+NRP: 5025211162
+
 Added:
 1. Added createdAt, updatedAt field
 2. Sort quotes shown by updatedAt
