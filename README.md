@@ -1,16 +1,14 @@
-# my_first_app
+# Quotes App
 
-A new Flutter project.
+Cloned from https://github.com/iamshaunjp/flutter-beginners-tutorial/tree/lesson-21
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Added:
+1. Added createdAt, updatedAt field
+2. Sort quotes shown by updatedAt
+3. Create Quota
+4. Update Quota
+5. Add input validation
+6. Add SingleChildScrollView so user can scroll
+7. Add QuoteDialog Widget to create/update quotes
+8. Add QuoteMenu Widget to store Pop Up Create/Update
+9. Improve UI/UX
